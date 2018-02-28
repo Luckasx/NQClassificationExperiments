@@ -13,7 +13,7 @@ Install the extension SSFS_APSO (https://github.com/Luckasx/RMExtension_SSFSAPSO
 
 1.  Extract the content of the zip *backup_rapidminer_20180226.zip*
 
-2.  Close the Rapidminer Studio and copy all the content of the folder **Local Repository** to the **C:\Users\%USERNAME%\.RapidMiner\repositories\Local Repository\** (Windows) or the equivalent folder.
+2.  Close the Rapidminer Studio and copy all the content of the folder **Local Repository** to the **C:\Users\\%USERNAME%\\.RapidMiner\repositories\Local Repository\** (Windows) or the equivalent folder.
 
 3.  The 3 Questions datasets are under the **data** folder and the processes under the **processes** folder.
 
