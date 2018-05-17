@@ -9,6 +9,12 @@ Rapidminer Studio 7.6+
 
 Install the extension SSFS_APSO (https://github.com/Luckasx/RMExtension_SSFSAPSO) with Gradle.
 
+### Required Rapidminer Plugins
+
+ * Text Processing
+ * Web Mining
+ * Weka
+
 ### Steps to reproduce the main experiments
 
 1.  Extract the content of the zip *backup_rapidminer_20180226.zip*
