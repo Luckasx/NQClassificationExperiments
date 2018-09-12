@@ -1,5 +1,5 @@
 ## NQClassificationExperiments
-This repository contains all the files needed to reproduce the experiments from the article....[].
+This repository contains all the files needed to reproduce the experiments from the article *WANQA: uma Abordagem para Identificar Novas Questões Não Respondíveis em Comunidades de Perguntas e Respostas* published in the SBBD 2018.
 
 
 ### Pre Requisite
