@@ -1,6 +1,5 @@
 ## NQClassificationExperiments
-This repository contains all the files needed to reproduce the experiments from the article *WANQA: uma Abordagem para Identificar Novas Questões Não Respondíveis em Comunidades de Perguntas e Respostas* published in the SBBD 2018.
-
+This repository contains the files needed to reproduce the experiments of the article *WANQA: uma Abordagem para Identificar Novas Questões Não Respondíveis em Comunidades de Perguntas e Respostas* published in the SBBD 2018.
 
 ### Pre Requisite
 Rapidminer Studio 7.6+
@@ -17,7 +16,7 @@ Install the extension SSFS_APSO (https://github.com/Luckasx/RMExtension_SSFSAPSO
 
 ### Steps to reproduce the main experiments
 
-1.  Extract the content of the zip *backup_rapidminer_20180226.zip*
+1.  Download and Extract the content of the zip *backup_rapidminer_20180226.zip*
 
 2.  Close the Rapidminer Studio and copy all the content of the folder **Local Repository** to the **C:\Users\\%USERNAME%\\.RapidMiner\repositories\Local Repository\** (Windows) or the equivalent folder.
 
